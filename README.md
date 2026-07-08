@@ -236,7 +236,7 @@ http://localhost:5173
 Passionate about Java, Hibernate, React.js, REST APIs, and Full Stack Web Development.
 
 * **GitHub:** https://github.com/PranavNanaware05
-* **LinkedIn:** *(Add your LinkedIn Profile URL)*
+* **LinkedIn:(https://www.linkedin.com/in/pranav-nanaware-071b04250)
 
 ---
 
